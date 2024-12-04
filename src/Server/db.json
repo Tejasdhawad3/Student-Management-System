@@ -1,0 +1,19 @@
+{
+  "Students": [
+    {
+      "fname": "tejas",
+      "lname": "dhawad",
+      "mothername": "savita",
+      "fathername": "Uttam",
+      "Address": "Nagpur",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "",
+      "dob": "03/03/2002",
+      "pincode": "440030",
+      "course": "full stack python",
+      "email": "dhawadtejas@gmail.com",
+      "id": "ed99"
+    }
+  ]
+}
